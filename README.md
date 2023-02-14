@@ -4,27 +4,6 @@
      <img width="500" heigth="300" src="https://user-images.githubusercontent.com/91544872/163816727-d48d3cdc-1cd8-445a-8b1c-90ed35431805.png">
 </p>
 
-### ¡Bienvenido al proyecto con la solución al desafío Conversor de Moneda con Java! Pasos principales:
-
-#### Marca este proyecto con una estrella ⭐
-#### Sigue las lecciones y las instrucciones de contenido 📚
-#### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-java) 📃
-
-## Contenido de este repositório
----
-
-Aqui encontrarás el código con la resolución al desafío del conversor de monedas, recuerda que no existe una única solución, para el mismo problema podemos encontrar diferentes tipos de soluciones y es eso lo que queremos demostrar, por eso disponibilizamos una solución para personas principiantes que están aún aprendiendo a usar este nuevo lenguaje y una solución un poco mas intermediaria, que aplica más conceptos de orientación a objetos y que va un poco más allá en el uso de buenas practicas de programación.
-
-Ahora ¿Cómo es que puedes ver en este repositório esas soluciones? 
-
-Es muy simple, como vemos en la siguiente imagen estamos trabajando con diferentes branchs(ramas) podemos simplemente seleccionar la branch con la solución que deseamos ver. Estas ramas son una versión nueva y separada del repositorio principal. Las branch permiten trabajar en diferentes partes de un proyecto sin afectar la rama principal, son muy usadas por los desarrolladores para probar nuevas funcionalidades en una aplicación sin afectar la versión  original. En este caso, nosotros las utilizamos para mostrarte dos alternativas posibles de como resolver este desafío.
-
-![image](https://user-images.githubusercontent.com/91544872/185704377-e456d630-4d96-4d76-8799-aa08aeb1cd8e.png)
-
-
-Una vez seleccionada la branch debes seguir el siguiente paso a paso para conseguir hacer el download del código ⬇️ 
-
-
 ## ⬇️ Download
 ---
 
@@ -98,34 +77,3 @@ Luego haz clic en el botón <em>Browse</em> y busca el proyecto en el directorio
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169432246-a769555c-daf9-490e-a0c7-908f7e5de967.png">
 </p>
-
-
-## ¿Cómo incluir mi proyecto en este Challenge?
----
-
-1) Publicar el proyecto en GitHub
-2) Utiliza el tema/topic:
-
- - Grupo 1: **challengeoneconversorlatam**
- - Grupo 2: **challengeoneconversorlatam2**
-
-Ve a la pestaña "Acerca" o "About" de tu proyecto en el menú de la izquierda dentro de tu repositorio de GitHub
-Incluye la etiqueta "**challengeoneconversorlatam2**"
-
-![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
-
-
----
-
-## ¿Cómo hago la entrega final de mi proyecto?
----
-
-3) Coloca tus datos en el formulario de entrega con el **link del proyecto publicado con GitHub Pages**
-🔹 [link del formulario](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one-esp)
-
-![formulario-esp](https://user-images.githubusercontent.com/91544872/179625558-4dda7e69-bdaf-4a79-9ca9-82cf8fede9de.png)
-
-4) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
-5) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
-
-     <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
